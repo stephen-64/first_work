@@ -1,0 +1,160 @@
+main.o: D:/G_Cube_Work/first_work/source/main.c \
+ D:/G_Cube_Work/first_work/source/GCUBE3DEngine.h \
+ C:/devkitPro/libogc/include/gccore.h \
+ C:/devkitPro/libogc/include/ogc/dsp.h \
+ C:/devkitPro/libogc/include/gctypes.h \
+ C:/devkitPro/libogc/include/ogc/aram.h \
+ C:/devkitPro/libogc/include/ogc/arqueue.h \
+ C:/devkitPro/libogc/include/ogc/lwp_queue.h \
+ C:/devkitPro/libogc/include/ogc/aram.h \
+ C:/devkitPro/libogc/include/ogc/arqmgr.h \
+ C:/devkitPro/libogc/include/ogc/audio.h \
+ C:/devkitPro/libogc/include/ogc/cache.h \
+ C:/devkitPro/libogc/include/ogc/card.h \
+ C:/devkitPro/libogc/include/ogc/cast.h \
+ C:/devkitPro/libogc/include/ogc/color.h \
+ C:/devkitPro/libogc/include/ogc/consol.h \
+ C:/devkitPro/libogc/include/ogc/gx_struct.h \
+ C:/devkitPro/libogc/include/ogc/dvd.h \
+ C:/devkitPro/libogc/include/ogc/disc_io.h \
+ C:/devkitPro/libogc/include/ogc/exi.h \
+ C:/devkitPro/libogc/include/ogc/gu.h \
+ C:/devkitPro/libogc/include/ogc/gx.h \
+ C:/devkitPro/libogc/include/ogc/lwp.h \
+ C:/devkitPro/libogc/include/ogc/gu.h \
+ C:/devkitPro/libogc/include/ogc/si.h \
+ C:/devkitPro/libogc/include/ogc/gx_struct.h \
+ C:/devkitPro/libogc/include/ogc/irq.h \
+ C:/devkitPro/libogc/include/ogc/context.h \
+ C:/devkitPro/libogc/include/ogc/lwp.h \
+ C:/devkitPro/libogc/include/ogc/mutex.h \
+ C:/devkitPro/libogc/include/ogc/message.h \
+ C:/devkitPro/libogc/include/ogc/semaphore.h \
+ C:/devkitPro/libogc/include/ogc/pad.h \
+ C:/devkitPro/libogc/include/ogc/tpl.h \
+ C:/devkitPro/libogc/include/ogc/gx.h \
+ C:/devkitPro/libogc/include/ogc/system.h \
+ C:/devkitPro/libogc/include/gcutil.h \
+ C:/devkitPro/libogc/include/ogc/video.h \
+ C:/devkitPro/libogc/include/ogc/video_types.h \
+ C:/devkitPro/libogc/include/ogc/usbgecko.h \
+ C:/devkitPro/libogc/include/ogc/video_types.h \
+ C:/devkitPro/libogc/include/ogc/texconv.h \
+ D:/G_Cube_Work/first_work/source/OBJ3D_Loader.h \
+ D:/G_Cube_Work/first_work/source/GCRender.h \
+ D:/G_Cube_Work/first_work/build/mud_tpl.h \
+ D:/G_Cube_Work/first_work/build/mud.h \
+ D:/G_Cube_Work/first_work/build/sky_tpl.h \
+ D:/G_Cube_Work/first_work/build/sky.h \
+ D:/G_Cube_Work/first_work/build/funcube_obj.h \
+ D:/G_Cube_Work/first_work/build/funplane_obj.h \
+ D:/G_Cube_Work/first_work/build/plane_obj.h \
+ D:/G_Cube_Work/first_work/build/skybox_obj.h \
+ D:/G_Cube_Work/first_work/build/house_obj.h \
+ D:/G_Cube_Work/first_work/build/map_obj.h
+
+D:/G_Cube_Work/first_work/source/GCUBE3DEngine.h:
+
+C:/devkitPro/libogc/include/gccore.h:
+
+C:/devkitPro/libogc/include/ogc/dsp.h:
+
+C:/devkitPro/libogc/include/gctypes.h:
+
+C:/devkitPro/libogc/include/ogc/aram.h:
+
+C:/devkitPro/libogc/include/ogc/arqueue.h:
+
+C:/devkitPro/libogc/include/ogc/lwp_queue.h:
+
+C:/devkitPro/libogc/include/ogc/aram.h:
+
+C:/devkitPro/libogc/include/ogc/arqmgr.h:
+
+C:/devkitPro/libogc/include/ogc/audio.h:
+
+C:/devkitPro/libogc/include/ogc/cache.h:
+
+C:/devkitPro/libogc/include/ogc/card.h:
+
+C:/devkitPro/libogc/include/ogc/cast.h:
+
+C:/devkitPro/libogc/include/ogc/color.h:
+
+C:/devkitPro/libogc/include/ogc/consol.h:
+
+C:/devkitPro/libogc/include/ogc/gx_struct.h:
+
+C:/devkitPro/libogc/include/ogc/dvd.h:
+
+C:/devkitPro/libogc/include/ogc/disc_io.h:
+
+C:/devkitPro/libogc/include/ogc/exi.h:
+
+C:/devkitPro/libogc/include/ogc/gu.h:
+
+C:/devkitPro/libogc/include/ogc/gx.h:
+
+C:/devkitPro/libogc/include/ogc/lwp.h:
+
+C:/devkitPro/libogc/include/ogc/gu.h:
+
+C:/devkitPro/libogc/include/ogc/si.h:
+
+C:/devkitPro/libogc/include/ogc/gx_struct.h:
+
+C:/devkitPro/libogc/include/ogc/irq.h:
+
+C:/devkitPro/libogc/include/ogc/context.h:
+
+C:/devkitPro/libogc/include/ogc/lwp.h:
+
+C:/devkitPro/libogc/include/ogc/mutex.h:
+
+C:/devkitPro/libogc/include/ogc/message.h:
+
+C:/devkitPro/libogc/include/ogc/semaphore.h:
+
+C:/devkitPro/libogc/include/ogc/pad.h:
+
+C:/devkitPro/libogc/include/ogc/tpl.h:
+
+C:/devkitPro/libogc/include/ogc/gx.h:
+
+C:/devkitPro/libogc/include/ogc/system.h:
+
+C:/devkitPro/libogc/include/gcutil.h:
+
+C:/devkitPro/libogc/include/ogc/video.h:
+
+C:/devkitPro/libogc/include/ogc/video_types.h:
+
+C:/devkitPro/libogc/include/ogc/usbgecko.h:
+
+C:/devkitPro/libogc/include/ogc/video_types.h:
+
+C:/devkitPro/libogc/include/ogc/texconv.h:
+
+D:/G_Cube_Work/first_work/source/OBJ3D_Loader.h:
+
+D:/G_Cube_Work/first_work/source/GCRender.h:
+
+D:/G_Cube_Work/first_work/build/mud_tpl.h:
+
+D:/G_Cube_Work/first_work/build/mud.h:
+
+D:/G_Cube_Work/first_work/build/sky_tpl.h:
+
+D:/G_Cube_Work/first_work/build/sky.h:
+
+D:/G_Cube_Work/first_work/build/funcube_obj.h:
+
+D:/G_Cube_Work/first_work/build/funplane_obj.h:
+
+D:/G_Cube_Work/first_work/build/plane_obj.h:
+
+D:/G_Cube_Work/first_work/build/skybox_obj.h:
+
+D:/G_Cube_Work/first_work/build/house_obj.h:
+
+D:/G_Cube_Work/first_work/build/map_obj.h:
