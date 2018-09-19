@@ -1,1 +1,0 @@
-#define sky 0
